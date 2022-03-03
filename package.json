@@ -28,6 +28,8 @@
         "typescript-eslint": "0.0.1-alpha.0"
     },
     "dependencies": {
-        "dotenv": "^16.0.0"
+        "@types/node-fetch": "^2.6.1",
+        "dotenv": "^16.0.0",
+        "node-fetch": "^2.6.7"
     }
 }
